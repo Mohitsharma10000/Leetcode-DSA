@@ -1,20 +1,23 @@
 class Solution {
 public:
-    int lengthOfLIS(vector<int>& arr) {
-        int n = arr.size();
-        vector<int> dp(n, 1);
+int solve(vector<int>&nums,int i,int previous,vector<vector<int>>&dp){
+    if(i==nums.size()) return 0;
+    if(dp[i][previous+1]!=-1) return dp[i][previous+1];
+    
+    int notpick=solve(nums,i+1,previous,dp);
+    int pick=0;
+    if(previous==-1||nums[i]>nums[previous]){
+        pick=1+solve(nums,i+1,i,dp);
+    }
+    dp[i][previous+1]=max(pick,notpick);
+    return dp[i][previous+1];
+}
+    int lengthOfLIS(vector<int>& nums) {
+        int n=nums.size();
+        vector<vector<int>>dp(n,vector<int>(n+1,-1));
+        return solve(nums,0,-1,dp);
 
-        int ans = 1;
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < i; j++) {
-                if (arr[i] > arr[j]) {
-                    dp[i] = max(dp[i], dp[j] + 1);
-                }
-            }
-            ans = max(ans, dp[i]);
-        }
-
-        return ans;
+        
+        
     }
 };
