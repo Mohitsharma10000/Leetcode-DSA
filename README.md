@@ -13,6 +13,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0542-01-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
