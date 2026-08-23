@@ -9,6 +9,7 @@
 | [0130-surrounded-regions](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0542-01-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0542-01-matrix) |
@@ -91,6 +92,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Longest Increasing Subsequence
 |  |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Hash Table
@@ -110,4 +113,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
