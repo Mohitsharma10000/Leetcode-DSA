@@ -17,6 +17,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -109,6 +110,7 @@
 | [0567-permutation-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Hash Table
 |  |
@@ -117,6 +119,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
 | ------- |
@@ -135,4 +138,8 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0338-counting-bits) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
