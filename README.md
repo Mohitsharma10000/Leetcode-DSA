@@ -130,6 +130,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0344-reverse-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1208-get-equal-substrings-within-budget) |
@@ -143,6 +144,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
