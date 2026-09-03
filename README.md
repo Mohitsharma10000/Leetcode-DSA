@@ -24,6 +24,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1208-get-equal-substrings-within-budget) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | [1208-get-equal-substrings-within-budget](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +150,7 @@
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,4 +173,12 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sorting
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
