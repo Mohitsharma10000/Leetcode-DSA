@@ -22,6 +22,7 @@
 | [0994-rotting-oranges](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1052-grumpy-bookstore-owner](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1052-grumpy-bookstore-owner) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Memoization
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1052-grumpy-bookstore-owner](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1208-get-equal-substrings-within-budget) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -135,6 +138,7 @@
 | [0567-permutation-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1805-number-of-different-integers-in-a-string) |
 ## String
 |  |
@@ -152,6 +156,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1208-get-equal-substrings-within-budget) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
