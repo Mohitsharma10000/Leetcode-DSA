@@ -98,6 +98,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [3870-count-commas-in-range](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3870-count-commas-in-range) |
 ## Memoization
 |  |
 | ------- |
