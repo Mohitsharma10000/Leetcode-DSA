@@ -187,6 +187,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0338-counting-bits) |
+| [2595-number-of-even-and-odd-bits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2595-number-of-even-and-odd-bits) |
 ## Counting
 |  |
 | ------- |
