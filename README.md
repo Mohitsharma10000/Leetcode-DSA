@@ -30,6 +30,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Breadth-First Search
 |  |
@@ -153,6 +154,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1695-maximum-erasure-value) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1805-number-of-different-integers-in-a-string) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -224,9 +227,11 @@
 ## Recursion
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
