@@ -104,6 +104,7 @@
 | [0070-climbing-stairs](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3870-count-commas-in-range](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -237,4 +238,8 @@
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Simulation
+|  |
+| ------- |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 <!---LeetCode Topics End-->
