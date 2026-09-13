@@ -172,6 +172,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1805-number-of-different-integers-in-a-string) |
@@ -192,6 +193,7 @@
 | [0344-reverse-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -247,6 +249,11 @@
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
