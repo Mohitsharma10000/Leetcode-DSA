@@ -167,6 +167,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0541-reverse-string-ii) |
@@ -186,6 +187,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0541-reverse-string-ii) |
