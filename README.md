@@ -111,6 +111,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0415-add-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -187,6 +188,7 @@
 | [0344-reverse-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0443-string-compression) |
@@ -229,6 +231,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0338-counting-bits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2595-number-of-even-and-odd-bits) |
 ## Counting
 |  |
