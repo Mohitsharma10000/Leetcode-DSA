@@ -200,6 +200,7 @@
 | [0844-backspace-string-compare](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1805-number-of-different-integers-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
@@ -298,6 +299,7 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Timsort
 |  |
 | ------- |
@@ -322,4 +324,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
