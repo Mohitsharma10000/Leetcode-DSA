@@ -202,6 +202,7 @@
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1805-number-of-different-integers-in-a-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
