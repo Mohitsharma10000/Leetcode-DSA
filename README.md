@@ -236,6 +236,7 @@
 | [0567-permutation-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 ## Bit Manipulation
@@ -257,6 +258,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Greedy
 |  |
