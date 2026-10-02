@@ -79,6 +79,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0198-house-robber) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
@@ -344,9 +346,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0648-replace-words) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
