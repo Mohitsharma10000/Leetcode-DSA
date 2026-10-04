@@ -89,6 +89,7 @@
 | [0338-counting-bits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Union-Find
 |  |
@@ -208,6 +209,7 @@
 | [0541-reverse-string-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0648-replace-words) |
+| [0678-valid-parenthesis-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1208-get-equal-substrings-within-budget) |
@@ -267,6 +269,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -319,6 +322,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Timsort
@@ -351,6 +355,7 @@
 | [0020-valid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
