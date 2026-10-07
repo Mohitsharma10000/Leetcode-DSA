@@ -49,6 +49,7 @@
 | [0200-number-of-islands](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
@@ -196,6 +197,7 @@
 | [0125-valid-palindrome](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
+| [0301-remove-invalid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0389-find-the-difference) |
@@ -372,4 +374,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
