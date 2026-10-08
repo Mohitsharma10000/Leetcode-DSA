@@ -208,6 +208,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0567-permutation-in-string) |
@@ -348,14 +349,17 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0459-repeated-substring-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
