@@ -18,6 +18,7 @@
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0454-4sum-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0454-4sum-ii) |
 | [0542-01-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0542-01-matrix) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0648-replace-words) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -177,6 +178,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0454-4sum-ii) |
 | [0567-permutation-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0648-replace-words) |
 | [0763-partition-labels](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
@@ -216,6 +218,7 @@
 | [0541-reverse-string-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0763-partition-labels) |
