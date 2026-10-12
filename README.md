@@ -121,6 +121,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0504-base-7) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -210,6 +211,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0459-repeated-substring-pattern) |
+| [0504-base-7](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
