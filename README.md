@@ -44,6 +44,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -292,6 +293,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -301,6 +303,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2094-finding-3-digit-even-numbers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Queue
 |  |
 | ------- |
