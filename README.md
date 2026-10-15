@@ -42,6 +42,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -192,6 +193,7 @@
 | [1695-maximum-erasure-value](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1695-maximum-erasure-value) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2094-finding-3-digit-even-numbers) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -403,4 +405,12 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
