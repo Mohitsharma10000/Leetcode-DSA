@@ -9,6 +9,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0130-surrounded-regions) |
+| [0164-maximum-gap](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0200-number-of-islands) |
@@ -306,6 +307,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0164-maximum-gap) |
 | [0389-find-the-difference](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0389-find-the-difference) |
 | [0881-boats-to-save-people](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
@@ -416,4 +418,16 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
