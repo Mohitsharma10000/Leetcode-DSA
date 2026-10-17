@@ -48,6 +48,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Breadth-First Search
 |  |
@@ -199,6 +200,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -314,6 +316,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2094-finding-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Queue
 |  |
