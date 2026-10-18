@@ -14,6 +14,7 @@
 | [0179-largest-number](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
@@ -129,6 +130,7 @@
 | [0002-add-two-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
+| [0204-count-primes](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0504-base-7) |
@@ -348,6 +350,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0204-count-primes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -437,4 +440,20 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0164-maximum-gap) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
