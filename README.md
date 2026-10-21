@@ -252,6 +252,7 @@
 | [1805-number-of-different-integers-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
