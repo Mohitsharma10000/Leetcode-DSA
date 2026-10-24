@@ -321,6 +321,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1367-linked-list-in-binary-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -373,6 +374,7 @@
 | [0002-add-two-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2094-finding-3-digit-even-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -402,6 +404,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Timsort
 |  |
 | ------- |
@@ -504,4 +507,8 @@
 |  |
 | ------- |
 | [1367-linked-list-in-binary-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1367-linked-list-in-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
