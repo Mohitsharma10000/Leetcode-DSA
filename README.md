@@ -215,6 +215,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3597-partition-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3597-partition-string) |
 ## String
 |  |
 | ------- |
@@ -263,6 +264,7 @@
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3597-partition-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3597-partition-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Prefix Sum
 |  |
@@ -386,6 +388,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3597-partition-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3597-partition-string) |
 ## Stack
 |  |
 | ------- |
@@ -440,6 +443,7 @@
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0648-replace-words) |
+| [3597-partition-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3597-partition-string) |
 ## Backtracking
 |  |
 | ------- |
