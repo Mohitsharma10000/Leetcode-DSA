@@ -260,6 +260,7 @@
 | [0856-score-of-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -417,6 +418,7 @@
 | [0844-backspace-string-compare](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
