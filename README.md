@@ -32,6 +32,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0648-replace-words) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0881-boats-to-save-people](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
@@ -405,6 +406,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -417,6 +419,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
