@@ -323,6 +323,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0148-sort-list) |
@@ -369,6 +370,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
@@ -426,6 +428,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## String Matching
@@ -529,9 +532,14 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0148-sort-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
