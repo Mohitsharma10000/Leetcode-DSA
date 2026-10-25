@@ -281,6 +281,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0344-reverse-string) |
@@ -316,6 +317,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -338,6 +340,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -413,6 +416,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## String Matching
 |  |
@@ -511,4 +515,8 @@
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
