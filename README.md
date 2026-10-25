@@ -146,6 +146,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0504-base-7) |
+| [0556-next-greater-element-iii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0556-next-greater-element-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -252,6 +253,7 @@
 | [0504-base-7](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -297,6 +299,7 @@
 | [0392-is-subsequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0763-partition-labels) |
