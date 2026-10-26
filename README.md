@@ -9,6 +9,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0179-largest-number) |
@@ -146,6 +147,7 @@
 | [0002-add-two-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -433,6 +435,7 @@
 | [0020-valid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0739-daily-temperatures) |
