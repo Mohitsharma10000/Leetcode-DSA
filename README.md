@@ -51,6 +51,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1695-maximum-erasure-value](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1861-rotating-the-box](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1861-rotating-the-box) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -86,6 +87,7 @@
 | [0733-flood-fill](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
+| [1861-rotating-the-box](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1861-rotating-the-box) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -312,6 +314,7 @@
 | [0917-reverse-only-letters](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0925-long-pressed-name) |
 | [1089-duplicate-zeros](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1089-duplicate-zeros) |
+| [1861-rotating-the-box](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1861-rotating-the-box) |
 ## Bit Manipulation
 |  |
 | ------- |
