@@ -56,6 +56,7 @@
 | [1861-rotating-the-box](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1861-rotating-the-box) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2094-finding-3-digit-even-numbers) |
+| [2454-next-greater-element-iv](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2454-next-greater-element-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -176,6 +177,7 @@
 | [1208-get-equal-substrings-within-budget](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2454-next-greater-element-iv](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2454-next-greater-element-iv) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -376,6 +378,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2094-finding-3-digit-even-numbers) |
+| [2454-next-greater-element-iv](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2454-next-greater-element-iv) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Queue
@@ -388,6 +391,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+| [2454-next-greater-element-iv](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2454-next-greater-element-iv) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -441,6 +445,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2454-next-greater-element-iv](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2454-next-greater-element-iv) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Timsort
 |  |
@@ -553,6 +558,7 @@
 | [0739-daily-temperatures](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2454-next-greater-element-iv](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2454-next-greater-element-iv) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Merge Sort
 |  |
