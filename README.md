@@ -66,6 +66,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0994-rotting-oranges](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1861-rotating-the-box](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1861-rotating-the-box) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [0542-01-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -330,6 +333,7 @@
 | [0389-find-the-difference](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2595-number-of-even-and-odd-bits) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting
 |  |
 | ------- |
