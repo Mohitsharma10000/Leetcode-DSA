@@ -117,6 +117,7 @@
 | [0022-generate-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0213-house-robber-ii) |
@@ -251,6 +252,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
