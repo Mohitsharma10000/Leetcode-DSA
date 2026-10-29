@@ -65,6 +65,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Breadth-First Search
@@ -81,6 +82,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0994-rotting-oranges](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1861-rotating-the-box](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1861-rotating-the-box) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -107,6 +110,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1367-linked-list-in-binary-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1367-linked-list-in-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,6 +135,7 @@
 | [0200-number-of-islands](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
