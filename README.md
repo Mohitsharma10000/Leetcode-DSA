@@ -161,6 +161,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0227-basic-calculator-ii) |
+| [0258-add-digits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0504-base-7) |
@@ -437,6 +438,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0682-baseball-game) |
@@ -547,6 +549,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
