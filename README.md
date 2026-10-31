@@ -25,6 +25,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0454-4sum-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0454-4sum-ii) |
+| [0456-132-pattern](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0456-132-pattern) |
 | [0542-01-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0565-array-nesting) |
@@ -188,6 +189,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0456-132-pattern](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0456-132-pattern) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -353,6 +355,7 @@
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0456-132-pattern](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0456-132-pattern) |
 ## Linked List
 |  |
 | ------- |
@@ -457,6 +460,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0394-decode-string) |
+| [0456-132-pattern](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0735-asteroid-collision) |
@@ -581,6 +585,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
