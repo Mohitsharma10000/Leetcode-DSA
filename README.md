@@ -299,6 +299,7 @@
 | [1805-number-of-different-integers-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2409-count-days-spent-together) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3597-partition-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3597-partition-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
