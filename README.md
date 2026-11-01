@@ -24,6 +24,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0456-132-pattern) |
 | [0542-01-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0542-01-matrix) |
@@ -165,6 +166,7 @@
 | [0258-add-digits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0556-next-greater-element-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
