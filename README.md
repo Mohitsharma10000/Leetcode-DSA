@@ -167,6 +167,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0492-construct-the-rectangle](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0556-next-greater-element-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
