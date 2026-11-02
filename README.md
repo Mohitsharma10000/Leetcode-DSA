@@ -534,6 +534,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0077-combinations) |
 | [0301-remove-invalid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Indexed Tree
 |  |
