@@ -4,16 +4,13 @@ public:
         int n=nums.size();
         sort(nums.begin(),nums.end());
         long long mini=INT_MAX;
+        int mid=nums[n/2];
+        long long ans=0;
         if(n<2) return 0;
         for(int i=0;i<n;i++){
-            long long ans=0;
-            for(int j=0;j<n;j++){
-                ans+=abs(nums[i]-nums[j]);
-
-            }
-            mini=min(mini,ans);
+            ans+=abs(nums[i]-mid);
         }
-        return (int)mini;
+        return (int)ans;
         
     }
 };
