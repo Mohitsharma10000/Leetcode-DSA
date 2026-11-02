@@ -412,6 +412,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -465,6 +466,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0456-132-pattern) |
@@ -612,4 +614,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
