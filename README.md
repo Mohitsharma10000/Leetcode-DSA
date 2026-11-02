@@ -413,6 +413,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -468,6 +469,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
@@ -618,4 +620,5 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
