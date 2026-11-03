@@ -115,6 +115,7 @@
 | [0733-flood-fill](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0802-find-eventual-safe-states) |
+| [0897-increasing-order-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1367-linked-list-in-binary-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1367-linked-list-in-binary-tree) |
@@ -487,6 +488,7 @@
 | [0739-daily-temperatures](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
+| [0897-increasing-order-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -599,11 +601,13 @@
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0341-flatten-nested-list-iterator) |
+| [0897-increasing-order-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 | [1367-linked-list-in-binary-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0897-increasing-order-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 | [1367-linked-list-in-binary-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1367-linked-list-in-binary-tree) |
 ## Monotonic Stack
@@ -642,5 +646,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0897-increasing-order-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
