@@ -109,6 +109,7 @@
 | [0200-number-of-islands](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
+| [0341-flatten-nested-list-iterator](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0341-flatten-nested-list-iterator) |
 | [0565-array-nesting](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0565-array-nesting) |
 | [0733-flood-fill](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
@@ -417,6 +418,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0341-flatten-nested-list-iterator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -472,6 +474,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
@@ -591,6 +594,7 @@
 ## Tree
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0341-flatten-nested-list-iterator) |
 | [1367-linked-list-in-binary-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -623,4 +627,9 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
