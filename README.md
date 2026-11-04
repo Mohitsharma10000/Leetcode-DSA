@@ -82,6 +82,7 @@
 | [0207-course-schedule](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
@@ -112,6 +113,7 @@
 | [0210-course-schedule-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0341-flatten-nested-list-iterator) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0565-array-nesting](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0565-array-nesting) |
 | [0733-flood-fill](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
@@ -603,6 +605,7 @@
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0341-flatten-nested-list-iterator) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0897-increasing-order-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 | [1367-linked-list-in-binary-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1367-linked-list-in-binary-tree) |
@@ -610,6 +613,7 @@
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0897-increasing-order-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 | [1367-linked-list-in-binary-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1367-linked-list-in-binary-tree) |
@@ -650,6 +654,7 @@
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0897-increasing-order-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
