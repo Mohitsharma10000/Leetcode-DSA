@@ -123,6 +123,7 @@
 | [0897-increasing-order-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1367-linked-list-in-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
@@ -614,6 +615,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -623,6 +625,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1367-linked-list-in-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -665,4 +668,5 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
