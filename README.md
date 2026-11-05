@@ -53,6 +53,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -205,6 +206,7 @@
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0456-132-pattern) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1208-get-equal-substrings-within-budget) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2454-next-greater-element-iv](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2454-next-greater-element-iv) |
@@ -352,6 +354,7 @@
 | [0917-reverse-only-letters](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0925-long-pressed-name) |
 | [1089-duplicate-zeros](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1861-rotating-the-box](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1861-rotating-the-box) |
 ## Bit Manipulation
 |  |
@@ -412,6 +415,7 @@
 | [0561-array-partition](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
