@@ -85,6 +85,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0542-01-matrix) |
+| [0617-merge-two-binary-trees](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0802-find-eventual-safe-states) |
@@ -116,6 +117,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0565-array-nesting](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0565-array-nesting) |
+| [0617-merge-two-binary-trees](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
@@ -614,6 +616,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0341-flatten-nested-list-iterator) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0617-merge-two-binary-trees](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
@@ -625,6 +628,7 @@
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0617-merge-two-binary-trees](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
