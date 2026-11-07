@@ -176,6 +176,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
@@ -279,6 +280,7 @@
 | [0022-generate-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0091-decode-ways) |
@@ -475,6 +477,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
