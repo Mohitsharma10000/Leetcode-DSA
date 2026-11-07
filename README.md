@@ -24,6 +24,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0456-132-pattern) |
@@ -99,6 +100,7 @@
 | [0130-surrounded-regions](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0733-flood-fill) |
@@ -213,6 +215,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0456-132-pattern) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -420,6 +423,7 @@
 | [0164-maximum-gap](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0561-array-partition) |
@@ -448,6 +452,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2454-next-greater-element-iv](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2454-next-greater-element-iv) |
 ## Monotonic Queue
 |  |
