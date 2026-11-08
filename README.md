@@ -53,6 +53,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1089-duplicate-zeros](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1089-duplicate-zeros) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1267-count-servers-that-communicate](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -94,6 +95,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
@@ -107,6 +109,7 @@
 | [0733-flood-fill](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1861-rotating-the-box](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1861-rotating-the-box) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -132,6 +135,7 @@
 | [0938-range-sum-of-bst](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1367-linked-list-in-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -160,6 +164,7 @@
 | [0200-number-of-islands](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -384,6 +389,7 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1267-count-servers-that-communicate) |
 ## Ordered Set
 |  |
 | ------- |
