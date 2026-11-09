@@ -39,6 +39,7 @@
 | [0622-design-circular-queue](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0648-replace-words) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0682-baseball-game) |
@@ -270,6 +271,7 @@
 | [0454-4sum-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0454-4sum-ii) |
 | [0567-permutation-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0648-replace-words) |
 | [0763-partition-labels](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
@@ -387,6 +389,7 @@
 | [0338-counting-bits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0645-set-mismatch](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0645-set-mismatch) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2595-number-of-even-and-odd-bits) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting
@@ -444,6 +447,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
