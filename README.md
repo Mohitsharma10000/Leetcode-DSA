@@ -78,6 +78,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3693-climbing-stairs-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -158,6 +159,7 @@
 | [0542-01-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3693-climbing-stairs-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find
 |  |
