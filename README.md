@@ -100,6 +100,7 @@
 | [0994-rotting-oranges](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1267-count-servers-that-communicate) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
@@ -142,6 +143,7 @@
 | [1267-count-servers-that-communicate](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1367-linked-list-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
@@ -170,6 +172,7 @@
 | [0785-is-graph-bipartite](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1267-count-servers-that-communicate) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -178,6 +181,7 @@
 | [0210-course-schedule-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0802-find-eventual-safe-states) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
