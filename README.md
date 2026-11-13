@@ -49,6 +49,7 @@
 | [0733-flood-fill](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
@@ -122,6 +123,7 @@
 | [0566-reshape-the-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1267-count-servers-that-communicate) |
@@ -538,6 +540,7 @@
 | [0682-baseball-game](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3498-reverse-degree-of-a-string) |
