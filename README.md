@@ -376,6 +376,7 @@
 | [1544-make-the-string-great](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/1805-number-of-different-integers-in-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2409-count-days-spent-together) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -553,6 +554,7 @@
 | [0844-backspace-string-compare](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3597-partition-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/3597-partition-string) |
