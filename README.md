@@ -228,6 +228,7 @@
 | [0227-basic-calculator-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -349,6 +350,7 @@
 | [0392-is-subsequence](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -547,6 +549,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Mohitsharma10000/Leetcode-DSA/tree/master/0682-baseball-game) |
